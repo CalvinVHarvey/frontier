@@ -10,10 +10,17 @@ Put a sign on the ship that you built with the allowe blocks click on the ship t
 -----Sign-----
 
 
+
+
 The should look like this
 
 [Pilot]
+
+
 (CraftType)
+
+
+
 
 -----Instructions Continued-----
 
