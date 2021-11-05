@@ -2,7 +2,7 @@
 A collection of files for the frontier server at the PHN minecraft club
 
 
------Instructions-----
+-----Instructions For Movecraft-----
 
 
 Put a sign on the ship that you built with the allowe blocks click on the ship types to see the allowed blocks and settings used for the movecraft ships
